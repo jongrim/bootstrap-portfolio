@@ -12,6 +12,10 @@ body > .container {
     padding-top: 60px;
 }
 
+#contactMeForm {
+  margin-bottom: 20px;
+}
+
 .footer {
   position: absolute;
   bottom: 0;
